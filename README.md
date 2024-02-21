@@ -19,7 +19,7 @@ React Router: Library used for routing and navigation within the application.
 To run this project locally, follow these steps:
 
 *git*
-=> git clone https://github.com/Muraliyadav17/web-midterm.git
+=> git clone https://github.com/Muraliyadav17/MyMidTerm.git
 
 *How to run*
 => cd midterm
